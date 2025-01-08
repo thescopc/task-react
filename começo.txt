@@ -1,0 +1,10 @@
+######################
+Configurar new projet
+
+> npm create vite@5.5.2 .
+> React
+> javascript
+> npm install
+> npm run dev
+######################
+
